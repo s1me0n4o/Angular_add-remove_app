@@ -1,0 +1,59 @@
+.main {
+width: 500px;
+text-align: center;
+margin: 0 auto;
+border: 2px solid darkgray;
+border-bottom: none;
+margin-top: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: #5c8297;
+    padding: 30px 0px;
+    margin-top: none;
+    color: white;
+}
+
+.addItem {
+    position: relative;
+    padding-bottom: 20px;
+    height: 30px;
+}
+
+.addItem button {
+    height: 45px;
+    width: 50px;
+    padding: 5px;
+    padding-top: 13px;
+}
+
+.addText {
+    width: 80%;
+    height: 30px;
+    padding: 5px;
+    font-size: 24px;
+}
+
+ul{
+    list-style: none;
+    font-style: 20px;
+    color: #686868;
+    margin-left: -40px;
+    margin-bottom: 0px;
+}
+
+li {
+    border-bottom: 1px solid #bfbfbf;
+    background-color: #d7d7d7;
+    padding: 10px 0;
+    margin-bottom: 5px;
+}
+
+span {
+    cursor: pointer;
+    position: relative;
+    float: right;
+    padding-right: 30px;
+}
